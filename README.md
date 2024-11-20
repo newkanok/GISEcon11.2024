@@ -7,4 +7,6 @@
 
 Oh Omg!!!!!!
 [Click to My Kepler App](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/newkanok/GISEcon11.2024/refs/heads/main/kepler.gl.json)
-/n/ [Web Map page](https://newkanok.github.io/GISEcon11.2024//)
+
+
+[Web Map page](https://newkanok.github.io/GISEcon11.2024//)
