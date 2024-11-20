@@ -6,4 +6,4 @@
 ### Heading
 
 Oh Omg!!!!!!
-[Click to My Kepler App](https://raw.githubusercontent.com/newkanok/GISEcon11.2024/refs/heads/main/kepler.gl.json)
+[Click to My Kepler App](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/newkanok/GISEcon11.2024/refs/heads/main/kepler.gl.json)
